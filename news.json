@@ -1,0 +1,31 @@
+{
+  "date": "Friday 20 November 2026",
+  "footer": "Sources: Reuters · IMD · AP · BBC — Photos: Pexels file photos, not pictures from the day itself.",
+  "italy": {
+    "deck": "The CGIL union's 24-hour general strike brings some 100 marches across Italy, schools and buses halted, as workers protest the 2027 budget and the cost of living. The Rome march sets off at 9:30 from Piazza Vittorio.",
+    "headline": "Italy stops work for a day",
+    "kicker": "ITALY — GENERAL STRIKE",
+    "photo_caption": "A CROWDED STREET IN ROME — FILE PHOTO"
+  },
+  "kyiv": {
+    "deck": "Debris from a Russian missile strike set a three-storey building ablaze in the Obolonskyi district in the early hours of Friday; residents across the capital heard explosions. Mayor Vitali Klitschko reported the fire on Telegram.",
+    "headline": "Missiles strike Kyiv at dawn",
+    "kicker": "UKRAINE — KYIV",
+    "photo_caption": "KYIV AND THE DNIPRO AT FIRST LIGHT — FILE PHOTO"
+  },
+  "lead": {
+    "deck": "Severe Cyclone Akvan crosses the coast near Gopalpur around noon, with winds of 90–100 km/h gusting to 110. Over 300,000 people evacuated; 423 rescue teams deployed, 69 trains cancelled.",
+    "headline": "Akvan slams into India's east coast",
+    "kicker": "WEATHER — CYCLONE AKVAN",
+    "photo_caption": "PALM TREES BEND IN THE WIND ON A STORM-LASHED COAST — FILE PHOTO"
+  },
+  "markets": {
+    "deck": "A day after the Taiex fell 4.4% — its worst month since 2008 — Taiwan caps intraday borrowed shares at 1% and bars shorting below the close after a 3.5% drop.",
+    "headline": "Taipei's short-selling curbs take effect today",
+    "kicker": "MARKETS — TAIWAN"
+  },
+  "masthead": "THE WORLD",
+  "masthead_tag": "IN ONE DAY",
+  "strapline": "One day, in one image — the world's news, Friday 20 November 2026",
+  "ticker": "COP31: FINAL DEAL DUE TODAY · TAIWAN SHORT-SELL CURBS TAKE EFFECT · FED: DEC HIKE LIKELY"
+}
